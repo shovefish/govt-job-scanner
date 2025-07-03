@@ -1,0 +1,14 @@
+streamlit
+pandas
+sqlalchemy
+matplotlib
+networkx
+psycopg2-binary
+requests
+bs4
+#tempfile
+fitz
+selenium
+#time
+frontend
+tools
